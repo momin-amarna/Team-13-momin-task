@@ -1,0 +1,23 @@
+
+.comment{
+    width: 100%;
+    border-style: inherit;
+}
+
+.profile-name {
+    color: black;
+}
+
+.profile-img{
+width:2.5rem;
+height:2.5rem;
+}
+
+.comment-content{
+    background-color: rgb(225, 225, 225);
+}
+.buttonLink {
+    
+    color: rgb(110, 110, 110);
+    }
+

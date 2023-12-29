@@ -1,0 +1,28 @@
+.about-card {
+    width: 100%;
+    max-width: 18rem;
+    max-height: 20rem;
+    border-style: none;
+}
+
+.card-title {
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+}
+
+.about-card-li {
+    margin-top: .5rem;
+}
+
+.bi {
+    color: rgb(86, 85, 85);
+}
+
+@media only screen and (max-width: 500px) {
+    .about-card {
+        width: 100%;
+        max-width: 22rem;
+        max-height: 20rem;
+    }
+
+}
